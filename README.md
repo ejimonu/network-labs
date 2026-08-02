@@ -5,8 +5,41 @@ Packet Tracer labs and notes for hands‑on network learning. This repo contains
 Difficulty
 Beginner → Intermediate
 
-Structure
-- labs/01-cisco-ios-upgrade/ — topology, configs, screenshots, README
-- labs/02-.../ — future labs
-- scripts/ — helper scripts for verification and automation
-- resources/ — links to tutorials, videos, and reference material
+---
+
+## Table of Contents
+- [Overview](#overview)
+- [Repository structure](#repository-structure)
+- [Quickstart](#quickstart)
+- [Lab 01 — Cisco IOS Upgrade](#lab-01---cisco-ios-upgrade)
+- [How to contribute](#how-to-contribute)
+- [References and credits](#references-and-credits)
+- [License](#license)
+
+---
+
+## Overview
+**Purpose:** Provide reproducible, instructor‑friendly network labs that teach practical skills using Packet Tracer and other tools.  
+**Audience:** Students and self‑learners who want hands‑on practice with Cisco IOS, VLANs, routing, and basic automation.  
+**Goals:** Each lab includes objectives, topology, step‑by‑step tasks, verification commands, screenshots, and a short checklist.
+
+---
+
+## Repository structure
+- **`labs/`** — numbered lab folders (e.g., `01-cisco-ios-upgrade/`)  
+- **`scripts/`** — helper scripts for verification or automation (optional)  
+- **`resources/`** — links, notes, and external references (YouTube, Udemy, books)  
+- **`solutions/`** — instructor solutions (clearly labeled; optional private branch)  
+- **`README.md`** — this file  
+- **`LICENSE`** — license for reuse
+
+Each lab folder contains:
+- `README.md` — lab overview, objectives, tasks, verification, troubleshooting  
+- `topology/` — diagrams (PNG/SVG) and Packet Tracer project files  
+- `configs/` — device configuration templates and final configs  
+- `screenshots/` — captured outputs and evidence of steps
+- `checklist.md` — pre/post upgrade checklist or quick verification steps
+
+---
+
+
