@@ -26,10 +26,9 @@ Beginner → Intermediate
 ---
 
 ## Repository structure
-- **`labs/`** — numbered lab folders (e.g., `01-cisco-ios-upgrade/`)  
+- **`labs/`** — lab folders (e.g., `cisco-ios-upgrade/`)  
 - **`scripts/`** — helper scripts for verification or automation (optional)  
-- **`resources/`** — links, notes, and external references (YouTube, Udemy, books)  
-- **`solutions/`** — instructor solutions (clearly labeled; optional private branch)  
+- **`resources/`** — links, notes, and external references (YouTube, Udemy, books)   
 - **`README.md`** — this file  
 - **`LICENSE`** — license for reuse
 
