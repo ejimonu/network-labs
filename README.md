@@ -36,7 +36,7 @@ Each lab folder contains:
 
 ## References and credits
 
-- **Ultimate Network Administrator Course** — Udemy (instructor: [see course page]). Accessed 2026-08-02. Used as a primary starting point for lab design and exercises. https://www.udemy.com/course/ultimate-network-administrator-course/?couponCode=KEEPLEARNING
+- **Ultimate Network Administrator Course** — Udemy (instructor: [see course page]). Used as a primary starting point for lab design and exercises. https://www.udemy.com/course/ultimate-network-administrator-course/?couponCode=KEEPLEARNING
 
 
 ---
