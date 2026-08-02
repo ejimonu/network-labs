@@ -1,9 +1,6 @@
 # Network Labs
 
-Packet Tracer labs and notes for hands‑on network learning. This repo contains step‑by‑step exercises, device configs, screenshots, and verification commands. Start with Lab 01 — Cisco IOS Upgrade.
-
-Difficulty
-Beginner → Intermediate
+Series of labs and notes from my time studying core networking concepts. This repo contains step‑by‑step exercises, device configs, screenshots, and verification commands.
 
 ---
 
@@ -16,9 +13,8 @@ Beginner → Intermediate
 ---
 
 ## Overview
-**Purpose:** Provide reproducible, instructor‑friendly network labs that teach practical skills using Packet Tracer and other tools.  
-**Audience:** Students and self‑learners who want hands‑on practice with Cisco IOS, VLANs, routing, and basic automation.  
-**Goals:** Each lab includes objectives, topology, step‑by‑step tasks, verification commands, screenshots, and a short checklist.
+**Purpose:** Document network labs for personal development using tools like packet tracer among others. 
+**Goals:** Each lab structure varies with its own set of objectives, topology, step‑by‑step tasks, verification commands, screenshots, and a short checklist.
 
 ---
 
@@ -38,4 +34,10 @@ Each lab folder contains:
 
 ---
 
+## References and credits
+
+- **Ultimate Network Administrator Course** — Udemy (instructor: [see course page]). Accessed 2026-08-02. Used as a primary starting point for lab design and exercises. https://www.udemy.com/course/ultimate-network-administrator-course/?couponCode=KEEPLEARNING
+
+
+---
 
