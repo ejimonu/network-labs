@@ -10,9 +10,6 @@ Beginner → Intermediate
 ## Table of Contents
 - [Overview](#overview)
 - [Repository structure](#repository-structure)
-- [Quickstart](#quickstart)
-- [Lab 01 — Cisco IOS Upgrade](#lab-01---cisco-ios-upgrade)
-- [How to contribute](#how-to-contribute)
 - [References and credits](#references-and-credits)
 - [License](#license)
 
